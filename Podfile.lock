@@ -1,0 +1,56 @@
+PODS:
+  - AFNetworking (2.6.3):
+    - AFNetworking/NSURLConnection (= 2.6.3)
+    - AFNetworking/NSURLSession (= 2.6.3)
+    - AFNetworking/Reachability (= 2.6.3)
+    - AFNetworking/Security (= 2.6.3)
+    - AFNetworking/Serialization (= 2.6.3)
+    - AFNetworking/UIKit (= 2.6.3)
+  - AFNetworking/NSURLConnection (2.6.3):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.6.3):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.6.3)
+  - AFNetworking/Security (2.6.3)
+  - AFNetworking/Serialization (2.6.3)
+  - AFNetworking/UIKit (2.6.3):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - NSString-UrlEncode (2.0.0)
+  - OMGHTTPURLRQ (3.0.2):
+    - OMGHTTPURLRQ/RQ (= 3.0.2)
+  - OMGHTTPURLRQ/FormURLEncode (3.0.2)
+  - OMGHTTPURLRQ/RQ (3.0.2):
+    - OMGHTTPURLRQ/FormURLEncode
+    - OMGHTTPURLRQ/UserAgent
+  - OMGHTTPURLRQ/UserAgent (3.0.2)
+  - PromiseKit-AFNetworking (0.6.0):
+    - AFNetworking (~> 2.0)
+    - PromiseKit/CorePromise (~> 3.0)
+  - PromiseKit/CorePromise (3.0.0)
+  - PromiseKit/Foundation (3.0.0):
+    - OMGHTTPURLRQ (~> 3.0.0)
+    - PromiseKit/CorePromise
+  - XeeSDK (1.0.6):
+    - AFNetworking (~> 2.6.1)
+    - NSString-UrlEncode (~> 2.0.0)
+    - PromiseKit-AFNetworking (~> 0.6.0)
+    - PromiseKit/CorePromise (~> 3.0.0)
+    - PromiseKit/Foundation (~> 3.0.0)
+
+DEPENDENCIES:
+  - XeeSDK
+
+SPEC CHECKSUMS:
+  AFNetworking: cb8d14a848e831097108418f5d49217339d4eb60
+  NSString-UrlEncode: d26eb4378531911d54694733143dd493c1571f5c
+  OMGHTTPURLRQ: 8376dc887d76a5a7e2a67881dc788f917a2f437c
+  PromiseKit: 665540a1eb43156446872dcf49ed7dee6ebbe13b
+  PromiseKit-AFNetworking: d3b2c88f9bb6bd3124454df99feb47e620873ce4
+  XeeSDK: 84dcf803ea65725276f36943c6b6bb403519c581
+
+COCOAPODS: 0.39.0

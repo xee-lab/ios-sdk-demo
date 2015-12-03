@@ -1,0 +1,24 @@
+/* 
+  Localizable.strings
+  XeeSDKDemo
+
+  Created by ruben BOBOTI on 23/11/2015.
+  Copyright © 2015 Eliocity. All rights reserved.
+*/
+
+
+"speed_not_found" = "Speed not found";
+"engine_not_found" = "Engine not found";
+"odometer_not_found" = "odometer Not found";
+"accelerometer_not_found" = "Accelerometer not found";
+"location_not_found" = "Location not found";
+"setup_issue" = "Bleutooth Setup Error";
+"connection_cancel" = "You must connect";
+"car_list" = "Car(s) List";
+"car_choice" = "Select your car";
+"scopes_missing" = "Please specify your scopes";
+"credential_missing" ="Please fill all the fields";
+"title_credential_missing" = "Fields Blanks";
+"title_scopes_missing"= "undefined scopes";
+"error" = "Error";
+"ok" = "OK";
