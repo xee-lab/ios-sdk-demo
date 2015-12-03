@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8C976A18015C3E184CF8CF83ABAC890B3E19E11F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "8C976A18015C3E184CF8CF83ABAC890B3E19E11F" : 0,
+    "0E5E8FA1B9387054A0F65BFCEE42929AFEAD33E3" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "6DEBE6D6-3A08-4830-B60A-0058177E8D1D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "8C976A18015C3E184CF8CF83ABAC890B3E19E11F" : "xee_ios_app_demo\/",
+    "0E5E8FA1B9387054A0F65BFCEE42929AFEAD33E3" : "ios-xeesdkdemo"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "XeeSDKDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "XeeSDKDemo.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/eliocity\/ios-xeesdkdemo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0E5E8FA1B9387054A0F65BFCEE42929AFEAD33E3"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:Eliocity\/xee_ios_app_demo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8C976A18015C3E184CF8CF83ABAC890B3E19E11F"
+    }
+  ]
+}
