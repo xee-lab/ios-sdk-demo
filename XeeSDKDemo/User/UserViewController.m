@@ -12,7 +12,7 @@
 #import <XeeSDK/XeeSDK.h>
 #import "globals.h"
 
-@interface UserViewController ()<XeeAuthDelegate>
+@interface UserViewController ()<XEEAuthDelegate>
 
 @property (strong, nonatomic)  NSString * accessToken;
 @property (weak, nonatomic) IBOutlet UILabel *firstName;
