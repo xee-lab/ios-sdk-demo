@@ -2,7 +2,7 @@
 platform :ios, '8.0'
 use_frameworks!
 
-pod 'XeeSDK'   
+pod 'XeeSDK', '~> 1.1.1'
 
 target 'XeeSDKDemo' do
 

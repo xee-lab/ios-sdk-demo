@@ -14,7 +14,7 @@
 #import "Credential.h"
 
 
-@interface MainViewController ()<XeeAuthDelegate>
+@interface MainViewController ()<XEEAuthDelegate>
 
 @end
 
